@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="girasoles">LOS GIRASOLES, VINCENT VAN GOGH</string>
+    <string name="girasoles_year">1887</string>
+    <string name="autorretrato_van_gogh">AUTORRETRATO, VINCENT VAN GOGH</string>
+    <string name="autorretrato_van_gogh_year">1889</string>
+    <string name="gioconda">LA GIOCONDA, LEONARDO DA VINCI</string>
+    <string name="gioconda_year">1503</string>
+    <string name="entierro_conde_orgaz">EL ENTIERRO DEL CONDE DE ORGAZ, EL GRECO</string>
+    <string name="entierro_conde_orgaz_year">1586</string>
+</resources>
